@@ -1,0 +1,8 @@
+trial
+.idea
+.cache
+log
+bower_components
+npm-debug.log
+test
+example

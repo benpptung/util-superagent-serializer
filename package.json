@@ -1,0 +1,19 @@
+{
+  "name": "util-superagent-serializer",
+  "version": "1.0.0",
+  "description": "process superagent response to get better error logging result",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benpptung/util-superagent-serializer.git"
+  },
+  "keywords": [
+    "superagent"
+  ],
+  "author": "Ben P.P. Tung",
+  "license": "MIT",
+  "devDependencies": {
+    "colors": "^1.1.2",
+    "superagent": "^1.8.3"
+  }
+}
