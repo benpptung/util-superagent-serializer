@@ -1,6 +1,6 @@
 {
   "name": "util-superagent-serializer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "process superagent response to get better error logging result",
   "main": "index.js",
   "repository": {
